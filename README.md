@@ -1,10 +1,10 @@
 # Telco Customer Churn Predictor
 
-> An end-to-end Machine Learning web application that predicts the likelihood of a customer leaving a telecommunications provider. This project focuses on **cross-version model deployment** and **dynamic feature mapping**.
+An end-to-end Machine Learning web application that predicts the likelihood of a customer leaving a telecommunications provider. This project focuses on **cross-version model deployment** and **dynamic feature mapping**.
 
 ![App Screenshot](img/screenshot1.png)
 
-🔗 **[Live Demo →](https://xgboost-telco-customer-churn-prediction-kkf7fwm5uguxnqp7klxmfg.streamlit.app/)**
+**[View Live Demo](https://xgboost-telco-customer-churn-prediction-kkf7fwm5uguxnqp7klxmfg.streamlit.app/)**
 
 ---
 
